@@ -1,16 +1,18 @@
 # Cards Produtos
 
+
 ![](./img/foto.png)
 
-## [Clique aqui]() para acessar o site
+## [Clique aqui](https://lucasvinip.github.io/criando_cardsProdutos/) para acessar o site
 
 ## **SOBRE**
-
+- Cards criados com dados obtidos de um JSON
 
 ## **TECNOLOGIAS APLICADAS**
-
-
-## **FERRAMENTAS**
-
+- HTML5
+- CSS3
+- JS
 
 ## **AUTOR**
+- [Lucas Vinicius](https://https://github.com/lucasvinip)
+
